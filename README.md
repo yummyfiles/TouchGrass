@@ -4,131 +4,136 @@
 
 ok so...
 
-i made a desktop app that is literally just a piece of grass telling you to go outside.
+i made an app that is literally just a piece of grass telling you to go outside.
 
 **.....i think it's best if you don't ask how i came up with this idea.**
 
-anyway, welcome to TouchGrass.
+anyway
 
-## What is this?
+welcome to TouchGrass 💀
 
-TouchGrass is a dumb little desktop app with one job:
+## what is this
 
-**tell you to touch grass.**
+TouchGrass is basically a desktop reminder app, except instead of some boring notification telling you to take a break, there's a piece of grass sitting on your screen judging you.
 
-an animated piece of grass sits on your desktop, watches you ignore it, gets progressively more annoyed, and occasionally says some absolutely questionable things.
+the longer you stay inside, the more annoyed it gets.
 
-basically, it's a reminder app that slowly loses its mind.
+that's pretty much the whole idea.
 
-## Features
+## features
 
 - animated grass character
 - customizable reminders
 - cursor interactions
-- random dialogue and reactions
-- grass mood system
+- random dialogue/reactions
+- grass moods
 - desktop notifications
-- optional cursed sound effects
+- cursed sound effects
 - Cursed Mode
-- local statistics
+- local stats
 - system tray support
-- minimal dark UI
-- persistent settings
-- completely local/offline
+- dark/minimal UI
+- settings that actually stay saved
+- works offline
 - no ads
 - no accounts
 - no subscriptions
 - no telemetry
 
-## The Grass
+## the grass
 
-the longer you stay inside, the more concerned the grass becomes.
+the grass starts off pretty normal.
 
-it starts innocent:
+> hey...
 
-> hey…
-
-then:
+then you keep ignoring it.
 
 > you know where the outside is, right?
 
-eventually:
+still ignoring it.
 
 > bro.
 
-and finally:
+and eventually:
 
 > **TOUCH. GRASS.**
 
-it also reacts to your mouse, because apparently even the grass needs attention.
+it can also react to your mouse because apparently i decided the grass needed to have a personality too.
 
-## Cursed Mode
+## cursed mode
 
-there's also **Cursed Mode**.
+yes, there's a **Cursed Mode**.
 
-it makes the grass considerably more weird.
+no, i probably shouldn't have made it.
 
-expect:
+it makes the grass way more weird and gives it stuff like:
 
-- strange facial expressions
+- weird facial expressions
 - awkward staring
-- bizarre animations
-- randomized reactions
-- increasingly unhinged dialogue
-- weird sound effects
+- random animations
+- unhinged dialogue
+- strange sound effects
 - uncomfortable jokes
-- the grass getting way too attached to your cursor
+- increasingly questionable reactions
 
-nothing is supposed to be genuinely disturbing or explicit.
+nothing actually serious or explicit.
 
-it's mostly just:
+it's more of a
 
 **"why the hell is this plant acting like that"**
 
-## Touching Grass
+kind of thing.
 
-when you actually go outside, you can tell the grass:
+## actually touching grass
+
+when you finally go outside, you can press:
 
 **I TOUCHED GRASS**
 
-the app will reset your reminder, celebrate your achievement, and record it in your statistics.
+the app resets the reminder and records it.
 
-because apparently touching grass needs an achievement system now.
+yes, i made an achievement system for touching grass.
 
-## Statistics
+no, i don't know why either.
 
-TouchGrass keeps everything locally and can track things like:
+## stats
 
-- grass touched
-- reminders ignored
-- longest indoor streak
-- current streak
-- total time spent being reminded
-- time before touching grass
+the app can keep track of stuff like:
+
+- how many times you touched grass
+- how many reminders you ignored
+- your longest indoor streak
+- your current streak
+- how long you've been getting reminded
+- how long it took you to finally go outside
 
 it may also judge you.
 
-## Privacy
+## privacy
 
-TouchGrass is designed to work completely offline.
+everything is local.
 
-there are:
+no accounts.
 
-- no accounts
-- no cloud sync
-- no analytics
-- no telemetry
-- no ads
-- no subscriptions
-- no unnecessary network connections
+no cloud stuff.
 
-your statistics and settings stay on your device.
+no analytics.
 
-## Personalities
+no telemetry.
 
-the grass system is designed to support different personalities in the future.
+no ads.
 
-possible personalities include:
+no subscriptions.
+
+no random network connections.
+
+your stats and settings stay on your computer.
+
+## future personalities
+
+the grass is also gonna have different personalities eventually.
+
+some ideas:
 
 - Normal Grass
 - Angry Grass
@@ -139,20 +144,18 @@ possible personalities include:
 - Passive-Aggressive Grass
 - Completely Unhinged Grass
 
-because one grass wasn't enough.
+because apparently one grass wasn't enough.
 
-## Why?
+## why did i make this
 
-look man
+look bro
 
-i genuinely don't know either.
+i genuinely don't know.
 
-**just don't ask how i came up with the idea.**
+**just don't ask.**
 
-## License
-
-[Choose a license here]
+that's probably for the best.
 
 ---
 
-**TouchGrass — because apparently your computer has to remind you to leave the house.**
+**TouchGrass — go outside bro.**
